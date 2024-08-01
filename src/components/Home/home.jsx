@@ -23,7 +23,7 @@ const Home = () => {
         </Col>
         <Col>
           <div className="i-title">
-            <img src={Mern} alt="Mern" style={{ width: "370px" }} className="imag1" />
+            <img src={Mern} alt="Mern" style={{ width: "400px" }} className="imag1" />
           </div>
         </Col>
       </Row>
