@@ -1,6 +1,6 @@
 import "./home.css";
 import { Container, Row, Col } from 'react-bootstrap';
-import Mern from "../../images/webdev1.jpg";
+import Mern from "../../images/Content Creator.jpeg";
 
 const Home = () => {
 
