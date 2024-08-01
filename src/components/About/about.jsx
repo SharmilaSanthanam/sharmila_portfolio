@@ -8,7 +8,7 @@ const About = () => {
    <Row>  
    <div className="row justify-content-center">
        <Col>   
-           <img src={Mern} alt="Mern" style={{ width: "350px" }} className="img"/> 
+           <img src={Mern} alt="Designer & Content Creator" style={{ width: "350px" }} className="img"/> 
        </Col>
        <Col>
         <h1 className="a-title">Am an...</h1><br></br>
