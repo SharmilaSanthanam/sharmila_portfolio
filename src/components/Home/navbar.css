@@ -1,0 +1,15 @@
+.navbar {
+  position: fixed;
+}
+
+.logo {
+  width: 40%;
+  color: #32CD32;
+
+}
+
+.ms-auto {
+  width: fit-content;
+  background-color: rgb(97, 212, 97);
+  border-radius: 10px;
+}
