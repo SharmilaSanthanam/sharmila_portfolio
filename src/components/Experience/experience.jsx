@@ -35,7 +35,7 @@ const Experience = () => {
         </Col>
         <Col>
      
-          <img src={Content} alt="Content" style={{ width: "350px" }}  className="img3" />
+          <img src={Content} alt="Content" style={{ width: "350px" }}  className="img4" />
           <p className="a-desc">
             At this moment, am enjoying the present wonderful journey as a <b>Content Creator and Designer</b> !!!
           </p>
