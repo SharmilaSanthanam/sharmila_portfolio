@@ -2,7 +2,7 @@ import "./experience.css";
 import Musescore from "../../images/musescore.png"
 import Mern from "../../images/merndev.png"
 import Adobe from "../../images/adobe.png"
-import Content from "../../images/adobe.png"
+import Content from "../../images/Content.jpg"
 import { Col, Container, Row } from "react-bootstrap";
 
 const Experience = () => {
