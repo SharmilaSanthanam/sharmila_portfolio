@@ -1,4 +1,5 @@
 import "./project.css";
+import Canvaimage from "../../images/canva.png";
 
 const Project = ({img,link}) => {
   return (
