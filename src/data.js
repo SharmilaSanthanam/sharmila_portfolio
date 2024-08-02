@@ -2,8 +2,8 @@
 export const projects = [
     {
       id: 1,
-      img: "image/loginfront.png",
-      link: "https://renturbook.netlify.app/"
+      img: "image/videoedit.jpg",
+      link: "https://www.youtube.com/@tejvision"
     }
     
   ];
