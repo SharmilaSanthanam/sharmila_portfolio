@@ -9,7 +9,7 @@ const Project = ({img,link}) => {
       </div>
       <a href={link} target="_blank" rel="noreferrer">
           <img
-         className="a-img2"
+         className="p-img"
           src={Canvaimage}
           alt="ChatGPT"
         />
