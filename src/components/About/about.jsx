@@ -1,5 +1,5 @@
 import "./about.css";
-import Mern from "../../images/mern.png"
+import Mern from "../../images/attention.png"
 import { Container,Row, Col } from "react-bootstrap";
 
 const About = () => {
