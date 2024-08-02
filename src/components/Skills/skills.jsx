@@ -3,6 +3,9 @@ import "./skills.css";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Aiimage from "../../images/aitool.png";
+import Chatimage from "../../images/chatgpt.jpg";
+import Canvaimage from "../../images/canva.png";
 import Htmlimage from "../../images/html1.png";
 import Cssimage from "../../images/css1.png";
 import Jsimage from "../../images/JS1.png";
@@ -20,6 +23,35 @@ const Skills = () => {
    
      <Container>
       <Row>
+           <Col>
+    <Carousel indicators={false} pause={false}>
+
+      <Carousel.Item interval={1000}>
+        <img
+      className="a-img1"
+          src={Aiimage}
+          alt="Aiimage"
+        />
+        </Carousel.Item>
+       <Carousel.Item interval={1000}>
+     
+        <img
+         className="a-img2"
+          src={Chatimage}
+          alt="ChatGPT"
+        />
+        </Carousel.Item>
+       <Carousel.Item interval={1000}>
+      
+        <img
+         className="a-img3"
+          src={Canvaimage}
+          alt="Canva"
+        />
+
+      </Carousel.Item>
+      </Carousel>
+      </Col>
         <Col>
     <Carousel indicators={false} pause={false}>
 
