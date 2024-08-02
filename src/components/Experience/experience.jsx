@@ -2,6 +2,7 @@ import "./experience.css";
 import Musescore from "../../images/musescore.png"
 import Mern from "../../images/merndev.png"
 import Adobe from "../../images/adobe.png"
+import Content from "../../images/adobe.png"
 import { Col, Container, Row } from "react-bootstrap";
 
 const Experience = () => {
@@ -24,11 +25,19 @@ const Experience = () => {
           </p>
      
         </Col>
-        <Col>
+          <Col>
      
           <img src={Mern} alt="Mern" style={{ width: "350px" }}  className="img3" />
           <p className="a-desc">
-            At this moment, am enjoying the present wonderful journey as a <b>Full-Stack Web developer</b> !!!
+            Enjoyed the journey as a <b>Full-Stack Web developer</b> !!!
+          </p>
+         
+        </Col>
+        <Col>
+     
+          <img src={Content} alt="Content" style={{ width: "350px" }}  className="img3" />
+          <p className="a-desc">
+            At this moment, am enjoying the present wonderful journey as a <b>Content Creator and Designer</b> !!!
           </p>
          
         </Col>
