@@ -15,7 +15,8 @@ const ProjectList = () => {
         {projects.map((item) => (
           <Project key={item.id} img={item.img} link={item.link} />
         ))}
-             <div className="pl-texts">
+       {* 
+       <div className="pl-texts">
         <p className="pl-desc">
         <a href={"https://github.com/SharmilaSanthanam/RentUrBookFrontend"} download style={{color:"green"}}>Frontend source code</a>
        &nbsp;  &nbsp;
@@ -24,6 +25,7 @@ const ProjectList = () => {
         
         </p>
         </div>
+       *}
       </div>
      
     </div>
