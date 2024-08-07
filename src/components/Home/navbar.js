@@ -24,9 +24,9 @@ function Navbars() {
               <LinkContainer to="/Skills">
                 <Nav.Link><b>Skills</b></Nav.Link>
               </LinkContainer> 
-              <LinkContainer to="/ProjectList">
-                <Nav.Link><b>Project</b></Nav.Link>
-              </LinkContainer>
+           //   <LinkContainer to="/ProjectList">
+            //    <Nav.Link><b>Project</b></Nav.Link>
+            //  </LinkContainer>
               <LinkContainer to="/Experience">
                 <Nav.Link><b>Experience</b></Nav.Link>
               </LinkContainer>  
