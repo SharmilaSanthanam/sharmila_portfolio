@@ -16,7 +16,7 @@ const Home = () => {
             </div>
           </div>
           <div> 
-          <a href={"https://drive.google.com/file/d/1XVBY_zfIV8Rs3aF9rEfOiYtL7sRySJGR/view?usp=sharing"} target="_blank" rel="noreferrer" className="resume" download style={{color:"green"}}>
+          <a href={"https://drive.google.com/file/d/1XVBY_zfIV8Rs3aF9rEfOiYtL7sRySJGR/view"} target="_blank" rel="noreferrer" className="resume" download style={{color:"green"}}>
           Click to view the Resume!!!
       </a>
        </div>
