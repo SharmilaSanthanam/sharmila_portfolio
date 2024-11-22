@@ -1,6 +1,7 @@
 import "./home.css";
 import { Container, Row, Col } from 'react-bootstrap';
 import Mern from "../../images/Content.jpg";
+import Content from "../../images/content.png"
 
 const Home = () => {
 
@@ -19,7 +20,7 @@ const Home = () => {
         </Col>
         <Col>
           <div className="i-title">
-            <img src={Mern} alt="Mern" style={{ width: "400px" }} className="imag1" />
+            <img src={Content} alt="Mern" style={{ width: "400px" }} className="imag1" />
           </div>
         </Col>
       </Row>
