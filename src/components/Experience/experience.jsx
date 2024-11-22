@@ -3,6 +3,7 @@ import Musescore from "../../images/musescore.png"
 import Mern from "../../images/merndev.png"
 import Adobe from "../../images/adobe.png"
 import Content from "../../images/content.png"
+import Mern from "../../images/Content.jpg";
 import { Col, Container, Row } from "react-bootstrap";
 
 const Experience = () => {
@@ -11,7 +12,7 @@ const Experience = () => {
       <Row>
           <Col>
      
-          <img src={Content} alt="Content" style={{ width: "750px" }}  className="img4" />
+          <img src={Mern} alt="Content" style={{ width: "750px" }}  className="img4" />
           <p className="a-desc">
             At this moment, am enjoying the present wonderful journey as a <b>Content Creator and Designer</b> !!!
           </p>
