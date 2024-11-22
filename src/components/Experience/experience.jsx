@@ -20,11 +20,7 @@ return (
        
       </Col>
         <Col>
-          <img src={Certify} alt="Certify" style={{ width: "550px" }}  className="img5" />
-        <p className="a-desc">
-          At this moment, am enjoying the present wonderful journey as a <b>Content Creator and Designer</b> !!!
-        </p>
-       
+          <img src={Certify} alt="Certify" style={{ width: "450px" }}  className="img5" />     
       </Col>
               <Col>
       
