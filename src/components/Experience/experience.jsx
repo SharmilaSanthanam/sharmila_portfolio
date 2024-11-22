@@ -9,6 +9,14 @@ const Experience = () => {
   return (
     <Container>
       <Row>
+          <Col>
+     
+          <img src={Content} alt="Content" style={{ width: "350px" }}  className="img4" />
+          <p className="a-desc">
+            At this moment, am enjoying the present wonderful journey as a <b>Content Creator and Designer</b> !!!
+          </p>
+         
+        </Col>
         <Col>
         
           <img src={Musescore} alt="Musescore" style={{ width: "350px" }} className="img1" />
@@ -33,14 +41,7 @@ const Experience = () => {
           </p>
          
         </Col>
-        <Col>
-     
-          <img src={Content} alt="Content" style={{ width: "350px" }}  className="img4" />
-          <p className="a-desc">
-            At this moment, am enjoying the present wonderful journey as a <b>Content Creator and Designer</b> !!!
-          </p>
-         
-        </Col>
+      
       </Row>
     </Container>
 
