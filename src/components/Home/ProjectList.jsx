@@ -17,10 +17,10 @@ const ProjectList = () => {
         ))}
              <div className="pl-texts">
         <p className="pl-desc">
-        <a href={"www.youtube.com/@tejvision"} download style={{color:"green"}}>Frontend source code</a>
+        <a href={"www.youtube.com/@tejvision"} download style={{color:"green"}}></a>
        &nbsp;  &nbsp;
     
-        <a href={"www.youtube.com/@tejvision"} download style={{color:"green"}}>Backend source code</a> 
+     //   <a href={"www.youtube.com/@tejvision"} download style={{color:"green"}}>Backend source code</a> 
         
         </p>
         </div>
